@@ -1,5 +1,5 @@
 # Big-Ideas-Final-Project
 
-Emily Kuntz 
-Yuqing Zhang
+Emily Kuntz
+Yoquing Zhang
 Tyler Vanderberg
