@@ -2,4 +2,4 @@
 
 Emily Kuntz 
 Yuqing Zhang
-Tyler Vanderberg
+Tyler Vandenberg
