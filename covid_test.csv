@@ -1,0 +1,222 @@
+neighborhood_municipality,indv_tested,cases,deaths,update_date
+Chateau (Pittsburgh),20,0,0,2020/11/2
+Mt. Oliver (Pittsburgh),58,0,0,2020/11/2
+St. Clair (Pittsburgh),25,0,0,2020/11/2
+Trafford,5,0,0,2020/11/2
+Undefined (Pittsburgh),1,0,0,2020/11/2
+Arlington Heights (Pittsburgh),52,1,1,2020/11/2
+Chartiers City (Pittsburgh),69,2,0,2020/11/2
+Haysville,13,2,0,2020/11/2
+Mcdonald,32,2,0,2020/11/2
+Allegheny West (Pittsburgh),102,3,0,2020/11/2
+East Carnegie (Pittsburgh),92,3,0,2020/11/2
+Esplen (Pittsburgh),26,3,0,2020/11/2
+Polish Hill (Pittsburgh),251,3,0,2020/11/2
+Ridgemont (Pittsburgh),379,3,0,2020/11/2
+Rosslyn Farms,45,3,0,2020/11/2
+South Shore (Pittsburgh),49,3,0,2020/11/2
+West Elizabeth,41,3,0,2020/11/2
+West End (Pittsburgh),40,3,0,2020/11/2
+Glenfield,30,4,0,2020/11/2
+South Versailles,54,4,0,2020/11/2
+Ben Avon Heights,69,5,0,2020/11/2
+Sewickley Hills,90,5,0,2020/11/2
+Regent Square (Pittsburgh),207,5,1,2020/11/2
+Bon Air (Pittsburgh),84,6,0,2020/11/2
+Glen Osborne,84,6,0,2020/11/2
+Hays (Pittsburgh),45,6,0,2020/11/2
+Kilbuck,114,6,0,2020/11/2
+Thornburg,71,6,0,2020/11/2
+Wall,66,6,0,2020/11/2
+Neville,150,6,1,2020/11/2
+Heidelberg,177,7,0,2020/11/2
+Leetsdale,138,7,0,2020/11/2
+Spring Garden (Pittsburgh),125,7,0,2020/11/2
+Aleppo,367,8,0,2020/11/2
+East Deer,240,8,0,2020/11/2
+Pennsbury Village,129,8,0,2020/11/2
+Bell Acres,175,9,0,2020/11/2
+Homewood West (Pittsburgh),115,9,0,2020/11/2
+Friendship (Pittsburgh),377,10,0,2020/11/2
+Leet,188,10,0,2020/11/2
+Oakwood (Pittsburgh),119,10,0,2020/11/2
+Springdale Township,236,10,0,2020/11/2
+Frazer,164,11,0,2020/11/2
+Fineview (Pittsburgh),179,12,0,2020/11/2
+California-Kirkbride (Pittsburgh),123,12,1,2020/11/2
+Bradford Woods,174,13,0,2020/11/2
+Dravosburg,237,13,0,2020/11/2
+Lincoln,134,13,0,2020/11/2
+Oakdale,240,13,0,2020/11/2
+North Shore (Pittsburgh),205,14,0,2020/11/2
+Summer Hill (Pittsburgh),153,14,0,2020/11/2
+Swisshelm Park (Pittsburgh),257,14,0,2020/11/2
+Ben Avon,292,15,0,2020/11/2
+Cheswick,276,15,0,2020/11/2
+Edgeworth,314,15,0,2020/11/2
+Blawnox,210,15,1,2020/11/2
+Sewickley Heights,2969,16,0,2020/11/2
+Springdale Borough,498,16,1,2020/11/2
+Northview Heights (Pittsburgh),216,17,3,2020/11/2
+Allegheny Center (Pittsburgh),209,18,0,2020/11/2
+Elizabeth Borough,205,18,0,2020/11/2
+Verona,405,18,0,2020/11/2
+Windgap (Pittsburgh),187,18,0,2020/11/2
+Aspinwall,395,19,0,2020/11/2
+Braddock Hills,290,20,0,2020/11/2
+Strip District (Pittsburgh),370,20,0,2020/11/2
+Upper Lawrenceville (Pittsburgh),596,20,0,2020/11/2
+Wilmerding,269,20,0,2020/11/2
+Chalfant,147,20,1,2020/11/2
+Whitaker,168,20,2,2020/11/2
+Elliott (Pittsburgh),324,21,0,2020/11/2
+East Pittsburgh,295,22,0,2020/11/2
+Forward,353,22,0,2020/11/2
+Bedford Dwellings (Pittsburgh),215,22,2,2020/11/2
+Crescent,236,22,2,2020/11/2
+Emsworth,326,23,0,2020/11/2
+Liberty,334,23,0,2020/11/2
+New Homestead (Pittsburgh),155,23,0,2020/11/2
+Point Breeze North (Pittsburgh),430,24,0,2020/11/2
+Middle Hill (Pittsburgh),283,25,0,2020/11/2
+Rankin,301,25,0,2020/11/2
+Fairywood (Pittsburgh),367,25,1,2020/11/2
+Millvale,600,25,1,2020/11/2
+Homewood South (Pittsburgh),402,26,0,2020/11/2
+Beltzhoover (Pittsburgh),254,26,1,2020/11/2
+Fawn,336,27,0,2020/11/2
+Troy Hill (Pittsburgh),519,27,0,2020/11/2
+Arlington (Pittsburgh),277,27,1,2020/11/2
+Baldwin Township,284,27,1,2020/11/2
+Sharpsburg,557,27,1,2020/11/2
+Larimer (Pittsburgh),592,28,0,2020/11/2
+Upper Hill (Pittsburgh),381,28,0,2020/11/2
+Versailles,234,28,0,2020/11/2
+Braddock,398,29,0,2020/11/2
+Edgewood,672,29,0,2020/11/2
+East Mckeesport,300,29,1,2020/11/2
+Morningside (Pittsburgh),602,29,1,2020/11/2
+Lower Lawrenceville (Pittsburgh),489,30,0,2020/11/2
+Spring Hill-City View (Pittsburgh),506,30,0,2020/11/2
+Terrace Village (Pittsburgh),291,30,0,2020/11/2
+Lincoln Place (Pittsburgh),431,30,1,2020/11/2
+East Allegheny (Pittsburgh),417,30,2,2020/11/2
+West Homestead,295,31,0,2020/11/2
+Allentown (Pittsburgh),346,32,0,2020/11/2
+Tarentum,660,32,1,2020/11/2
+Pitcairn,424,33,2,2020/11/2
+Churchill,593,34,1,2020/11/2
+Duquesne Heights (Pittsburgh),1653,35,0,2020/11/2
+Point Breeze (Pittsburgh),1164,36,1,2020/11/2
+Sewickley,519,37,0,2020/11/2
+Reserve,465,37,2,2020/11/2
+Etna,606,38,0,2020/11/2
+Overbrook (Pittsburgh),537,38,1,2020/11/2
+Port Vue,537,39,1,2020/11/2
+Harmar,708,40,0,2020/11/2
+Brackenridge,764,40,1,2020/11/2
+Avalon,776,42,4,2020/11/2
+Homestead,504,43,0,2020/11/2
+East Hills (Pittsburgh),446,43,1,2020/11/2
+Manchester (Pittsburgh),410,43,2,2020/11/2
+Homewood North (Pittsburgh),440,44,0,2020/11/2
+Central Northside (Pittsburgh),643,45,0,2020/11/2
+Crawford-Roberts (Pittsburgh),723,49,2,2020/11/2
+Garfield (Pittsburgh),779,49,2,2020/11/2
+Glassport,635,50,1,2020/11/2
+Ingram,449,51,0,2020/11/2
+Knoxville (Pittsburgh),489,51,0,2020/11/2
+Sheraden (Pittsburgh),741,51,1,2020/11/2
+North Braddock,656,52,0,2020/11/2
+Beechview (Pittsburgh),1124,53,0,2020/11/2
+Bridgeville,609,53,0,2020/11/2
+Marshall-Shadeland (Pittsburgh),629,53,0,2020/11/2
+Stanton Heights (Pittsburgh),851,54,0,2020/11/2
+West View,967,54,0,2020/11/2
+West Oakland (Pittsburgh),664,54,1,2020/11/2
+Forest Hills,1111,55,0,2020/11/2
+Hazelwood (Pittsburgh),720,56,0,2020/11/2
+Wilkins,1077,56,0,2020/11/2
+Coraopolis,682,56,5,2020/11/2
+Findlay,649,59,3,2020/11/2
+Central Lawrenceville (Pittsburgh),988,59,6,2020/11/2
+Westwood (Pittsburgh),482,60,0,2020/11/2
+Lincoln-Lemington-Belmar (Pittsburgh),1005,60,2,2020/11/2
+Green Tree,724,61,1,2020/11/2
+Mckees rocks,1065,63,0,2020/11/2
+Perry North (Pittsburgh),729,63,1,2020/11/2
+Ohio,1044,67,0,2020/11/2
+West Deer,1816,68,0,2020/11/2
+Mount Oliver Borough,494,68,1,2020/11/2
+White Oak,1119,68,2,2020/11/2
+Crafton Heights (Pittsburgh),545,69,0,2020/11/2
+Turtle Creek,898,69,6,2020/11/2
+Marshall,1328,70,0,2020/11/2
+Greenfield (Pittsburgh),1266,75,4,2020/11/2
+Central Business District (Pittsburgh),968,76,0,2020/11/2
+Perry South (Pittsburgh),833,76,0,2020/11/2
+North Oakland (Pittsburgh),1768,78,0,2020/11/2
+Southside Slopes (Pittsburgh),690,83,0,2020/11/2
+East Liberty (Pittsburgh),1171,83,3,2020/11/2
+Banksville (Pittsburgh),688,83,11,2020/11/2
+Highland Park (Pittsburgh),1640,85,3,2020/11/2
+Crafton,1022,86,3,2020/11/2
+Carnegie,1035,87,0,2020/11/2
+Fox Chapel,1339,87,1,2020/11/2
+Indiana,1325,89,0,2020/11/2
+Oakmont,2315,89,0,2020/11/2
+Bloomfield (Pittsburgh),1714,89,1,2020/11/2
+Swissvale,1470,90,0,2020/11/2
+South Oakland (Pittsburgh),580,90,1,2020/11/2
+Duquesne,889,90,4,2020/11/2
+Bellevue,1375,95,0,2020/11/2
+Glen Hazel (Pittsburgh),317,95,21,2020/11/2
+Dormont,1287,97,1,2020/11/2
+Brighton Heights (Pittsburgh),1733,99,0,2020/11/2
+Stowe,880,99,3,2020/11/2
+Harrison,1482,100,1,2020/11/2
+Collier,1268,102,0,2020/11/2
+North Versailles,1707,103,2,2020/11/2
+O'Hara,1769,108,1,2020/11/2
+Squirrel Hill North (Pittsburgh),3596,111,1,2020/11/2
+Munhall,1627,114,1,2020/11/2
+Bluff (Pittsburgh),3841,119,0,2020/11/2
+Clairton,1235,120,2,2020/11/2
+Castle Shannon,1230,121,4,2020/11/2
+Squirrel Hill South (Pittsburgh),3580,128,10,2020/11/2
+Franklin Park,2254,130,3,2020/11/2
+South Park,1733,132,0,2020/11/2
+Elizabeth Township,1780,133,5,2020/11/2
+Pleasant Hills,1422,137,2,2020/11/2
+North Fayette,1733,140,3,2020/11/2
+Kennedy,1704,149,20,2020/11/2
+Pine,2322,151,1,2020/11/2
+Brookline (Pittsburgh),2025,158,1,2020/11/2
+Carrick (Pittsburgh),1566,158,3,2020/11/2
+Mount Washington (Pittsburgh),1645,159,1,2020/11/2
+Undefined,1513,161,3,2020/11/2
+Brentwood,1727,172,1,2020/11/2
+Robinson,2467,174,2,2020/11/2
+Richland,1928,187,31,2020/11/2
+Wilkinsburg,2958,192,9,2020/11/2
+South Fayette,2250,206,4,2020/11/2
+Jefferson Hills,2100,212,11,2020/11/2
+West Mifflin,2847,217,2,2020/11/2
+Hampton,3023,219,3,2020/11/2
+Shadyside (Pittsburgh),3068,221,14,2020/11/2
+Central Oakland (Pittsburgh),1379,244,0,2020/11/2
+Southside Flats (Pittsburgh),2378,254,0,2020/11/2
+Upper Saint Clair,3700,261,6,2020/11/2
+McKeesport,3675,271,10,2020/11/2
+Shaler,4045,273,4,2020/11/2
+Bethel Park,4399,280,3,2020/11/2
+Plum,3957,281,3,2020/11/2
+McCandless,4927,286,18,2020/11/2
+Moon,3554,293,9,2020/11/2
+Scott,3243,326,22,2020/11/2
+Monroeville,5483,379,13,2020/11/2
+Whitehall,2533,396,7,2020/11/2
+Mount Lebanon,9810,423,3,2020/11/2
+Ross,5460,467,41,2020/11/2
+Penn Hills,6824,472,7,2020/11/2
+Baldwin Borough,4118,646,12,2020/11/2
