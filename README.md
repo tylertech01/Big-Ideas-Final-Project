@@ -12,6 +12,10 @@ Data Sets used:
 
 Fire Incidents: https://data.wprdc.org/datastore/dump/8d76ac6b-5ae8-4428-82a4-043130d17b02
 
+Deaths 2011-15 by Neighborhood: https://data.wprdc.org/dataset/median-age-death/resource/c2e1500a-a12a-4e91-be94-76c6a892b7e2
+
+Allegheny County COVID-19 Tests, Cases and Deaths: https://data.wprdc.org/dataset/allegheny-county-covid-19-tests-cases-and-deaths
+
 
 
 
