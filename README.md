@@ -1,5 +1,6 @@
 # Big-Ideas-Final-Project
 
+
 ****The Best of the Best****
 
 Emily Kuntz -- emk128@pitt.edu
@@ -16,3 +17,7 @@ Fire Incidents: https://data.wprdc.org/datastore/dump/8d76ac6b-5ae8-4428-82a4-04
 
 
 Abstract: 
+
+Emily Kuntz 
+Yuqing Zhang
+Tyler Vandenberg
